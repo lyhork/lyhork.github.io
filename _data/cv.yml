@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Lyhork Lim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 09th November 2000
     - name: Languages
-      value: English, German
+      value: Khmer
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Bachelor Degree
+      institution: Royal University of Phnom Penh, Phnom Penh, Cambodia
       year: 1905
       description:
         - Description 1.
@@ -21,12 +21,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
